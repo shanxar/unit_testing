@@ -1,0 +1,7 @@
+test_addition (ex2_test.TestCalculator_Addition.test_addition) ... ok
+test_division (ex2_test.TestCalculator_Division.test_division) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
